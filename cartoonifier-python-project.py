@@ -6,6 +6,7 @@ import imageio #to read image stored at particular path
 import sys
 import matplotlib
 matplotlib.use('TkAgg')
+import matplotlib.pyplot as plt
 import os
 import tkinter as tk
 from tkinter import filedialog
